@@ -1,0 +1,14 @@
+{
+  "name": "proj_biblioteca",
+  "version": "1.0.0",
+  "description": "Projeto biblioteca",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Michel B Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
